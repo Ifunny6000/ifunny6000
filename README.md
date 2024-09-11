@@ -1,4 +1,4 @@
-## Olá, meu nome é Gustavo e eu sou dev avançado em programação de html, css e em breve js
+## Opa! Meu nome é Gustavo e estou aprendendo HTML e CSS
 
  <div>
    <a href="https://github.com/ifunny6000">
